@@ -8,9 +8,9 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 4. Kasutame clockify.me aja jälgimiseks.
 5. Kasutame teams.microsoft.com info jagamiseks ja suhtlemiseks.
 
-Kasutatud allikad 
-fonts.google.com (Montserrat font) 
-cooloros.co (Värvi valimine)
-tallwindcss.com (Värvi valimine)
-lipsum.com(Tekstide valik)
-unsplash.com(Tasuta piltide valik)
+# Kasutatud allikad 
+1) fonts.google.com (Montserrat font) 
+2) cooloros.co (Värvi valimine)
+3) tallwindcss.com (Värvi valimine)
+4) lipsum.com(Tekstide valik)
+5) unsplash.com(Tasuta piltide valik)
