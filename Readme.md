@@ -14,3 +14,4 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 3) tallwindcss.com (Värvi valimine)
 4) lipsum.com(Tekstide valik)
 5) unsplash.com(Tasuta piltide valik)
+6) w3schools.com (Abi)
