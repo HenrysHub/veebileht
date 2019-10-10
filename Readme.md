@@ -1,6 +1,9 @@
 # Sissejuhatus
 Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 
+# Draw.io plokkskeem
+https://tinyurl.com/yxz5xne9
+
 # Mida me kasutame selle loomiseks?
 1. Kasutame lehekülge figma.com
 2. Kasutame lehekülje üles panemiseks zone.ee
