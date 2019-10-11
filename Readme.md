@@ -18,3 +18,4 @@ https://tinyurl.com/yxz5xne9
 4) lipsum.com(Tekstide valik)
 5) unsplash.com(Tasuta piltide valik)
 6) w3schools.com (Abi)
+7) every-layout.dev (Abi)
