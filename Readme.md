@@ -1,5 +1,3 @@
-**[Troubleshooting](#troubleshooting)**<br>
-
 # Sissejuhatus
 Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 
@@ -47,8 +45,9 @@ code
 
 
 
-
 # Sisukord
+
+**[Troubleshooting](#troubleshooting)**<br> (Otsib # järgi alapealkirja)
 
 ### Troubleshooting
 See the [Troubleshooting wiki page](https://github.com/adam-p/markdown-here/wiki/Troubleshooting).
