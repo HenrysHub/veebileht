@@ -1,5 +1,3 @@
-**[Troubleshooting](#troubleshooting)**<br>
-
 # Sissejuhatus
 Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 
@@ -22,7 +20,8 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 * [W3schools](https://www.w3schools.com) - Abi
 * [Every-Layout](https://www.every-layout.dev) - Abi
 * [Vuejs](https://www.vuejs.org) - Abi
-
+* [Github Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown/) - Githubi dokumenteerimine abi
+* [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/) - Github dukumenteerimise abi
 ```php
 code
 ```
@@ -47,8 +46,9 @@ code
 
 
 
-
 # Sisukord
+
+**[Troubleshooting](#troubleshooting)**<br> (Otsib # järgi alapealkirja)
 
 ### Troubleshooting
 See the [Troubleshooting wiki page](https://github.com/adam-p/markdown-here/wiki/Troubleshooting).
