@@ -12,14 +12,14 @@ https://tinyurl.com/yxz5xne9
 5. Kasutame teams.microsoft.com info jagamiseks ja suhtlemiseks.
 
 # Kasutatud allikad 
-1) fonts.google.com (Montserrat font) 
-2) cooloros.co (Värvi valimine)
-3) tallwindcss.com (Värvi valimine)
-4) lipsum.com(Teksti näide)
-5) unsplash.com(Tasuta piltide valik)
-6) w3schools.com (Abi)
-7) every-layout.dev (Abi)
-8) vuejs.org (Abi)
+* [Google Fonts](https://www.fonts.google.com/) - Monsterrat font
+* [Coolors](https://www.coolors.co/) - Värvi valimine
+* [Tallwindcss](https://www.tallwindcss.com/) - Värvi valimine
+* [Lipsum](https://www.lipsum.com/) - Teksti näide
+* [Unsplash](https://www.unsplash.com/) - Tausta piltide valik
+* [W3schools](https://www.w3schools.com) - Abi
+* [Every-Layout](https://www.every-layout.dev) - Abi
+* [Vuejs](https://www.vuejs.org) - Abi
 
 ```php
 code
