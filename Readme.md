@@ -4,12 +4,12 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 # Draw.io plokkskeem
 https://tinyurl.com/yxz5xne9
 
-# Mida me kasutame selle loomiseks?
-1. Kasutame lehekülge figma.com
-2. Kasutame lehekülje üles panemiseks zone.ee
-3. Kasutame GitHubi ülesande lisamiseks ja haldamiseks.
-4. Kasutame clockify.me aja jälgimiseks.
-5. Kasutame teams.microsoft.com info jagamiseks ja suhtlemiseks.
+# Mida me kasutame veebilehekülje loomiseks?
+* [Figma](https://www.figma.com/) - Veebilehe disanimine
+* [Zone](https://www.zone.ee/) - Veebilehe majutamine
+* [Github](https://www.github.com/HenrysHub/veebileht/) - Kasutame GitHubi ülesande lisamiseks ja haldamiseks.
+* [Clockify](https://www.clockify.me/) - Aja jälgimine
+* [Microsoft teams](https://teams.microsoft.com/) - Suhtlemine ning info jagamine.
 
 # Kasutatud allikad 
 * [Google Fonts](https://www.fonts.google.com/) - Monsterrat font
