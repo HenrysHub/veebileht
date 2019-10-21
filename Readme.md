@@ -50,5 +50,5 @@ code
 
 # Sisukord
 
-## Troubleshooting
+Troubleshooting
 See the [Troubleshooting wiki page](https://github.com/adam-p/markdown-here/wiki/Troubleshooting).
