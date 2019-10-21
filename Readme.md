@@ -20,8 +20,8 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 * [W3schools](https://www.w3schools.com) - Abi
 * [Every-Layout](https://www.every-layout.dev) - Abi
 * [Vuejs](https://www.vuejs.org) - Abi
-* [Github Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown/) - Githubi dokumenteerimine
-
+* [Github Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown/) - Githubi dokumenteerimine abi
+* [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/) - Github dukumenteerimise abi
 ```php
 code
 ```
