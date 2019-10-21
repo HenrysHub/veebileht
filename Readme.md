@@ -1,3 +1,5 @@
+**[Troubleshooting](#troubleshooting)**<br>
+
 # Sissejuhatus
 Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 
@@ -24,3 +26,28 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 ```php
 code
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Sisukord
+
+See the [Troubleshooting wiki page](https://github.com/adam-p/markdown-here/wiki/Troubleshooting).
