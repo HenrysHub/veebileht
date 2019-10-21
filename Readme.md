@@ -2,7 +2,7 @@
 Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 
 # Draw.io plokkskeem
-https://tinyurl.com/yxz5xne9
+[Draw.io](https://tinyurl.com/yxz5xne9/) - Plokkskeem
 
 # Mida me kasutame veebilehekülje loomiseks?
 * [Figma](https://www.figma.com/) - Veebilehe disanimine
