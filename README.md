@@ -12,7 +12,7 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 * [Microsoft teams](https://teams.microsoft.com/) - Suhtlemine ning info jagamine.
 
 # Kasutatud allikad 
-* [Google Fonts](https://www.fonts.google.com/) - Monsterrat font
+* [Google Fonts](https://fonts.google.com/) - Monsterrat font
 * [Coolors](https://www.coolors.co/) - Värvi valimine
 * [Tallwindcss](https://www.tallwindcss.com/) - Värvi valimine
 * [Lipsum](https://www.lipsum.com/) - Teksti näide
