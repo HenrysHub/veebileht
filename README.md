@@ -1,17 +1,3 @@
-# Sisukord
-
-### **[Sissejuhatus]
-### **[Plokkskeem]
-### **[Mida me kasutame?]
-### **[Kasutatud allikad]
-
-
-
-
-
-
-
-
 # Sissejuhatus
 Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 
