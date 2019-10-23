@@ -1,3 +1,18 @@
+# Sisukord
+
+### Sissejuhatus
+### Plokkskeem
+### Mida me kasutame?
+### Kasutatud allkad
+
+
+
+
+
+
+
+
+
 # Sissejuhatus
 Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 
