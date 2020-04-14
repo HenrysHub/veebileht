@@ -5,7 +5,7 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 [Draw.io](https://tinyurl.com/yxz5xne9/) - Plokkskeem
 
 # Mida me kasutame veebilehekülje loomiseks?
-* [Grapesjs](https://grapesjs.com/) - Ehitamine
+* [Wordpress](https://www.wordpress.com/) - Ehitamine
 * [Figma](https://www.figma.com/) - Veebilehe disanimine
 * [Zone](https://www.zone.ee/) - Veebilehe majutamine
 * [Github](https://www.github.com/HenrysHub/veebileht/) - Kasutame GitHubi ülesande lisamiseks ja haldamiseks.
