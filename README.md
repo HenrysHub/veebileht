@@ -10,7 +10,7 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 * [Zone](https://www.zone.ee/) - Veebilehe majutamine
 * [Github](https://www.github.com/HenrysHub/veebileht/) - Kasutame GitHubi ülesande lisamiseks ja haldamiseks.
 * [Clockify](https://www.clockify.me/) - Aja jälgimine
-* [Microsoft teams](https://teams.microsoft.com/) - Suhtlemine ning info jagamine.
+* [Microsoft Teams](https://teams.microsoft.com/) - Suhtlemine ning info jagamine.
 
 # Kasutatud allikad 
 * [Google Fonts](https://fonts.google.com/) - Monsterrat font
