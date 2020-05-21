@@ -27,26 +27,6 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 code
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Sisukord
 
 **[Troubleshooting](#troubleshooting)**<br> (Otsib # järgi alapealkirja)
