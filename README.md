@@ -9,7 +9,7 @@ Ning viimasena kasutaud allikad.
 * [Noor Probleem](https://tak17mei.itmajakas.ee/noorprobleem/) - Link veebileheküljele
 
 # Draw.io plokkskeem
-[Draw.io](https://tinyurl.com/yxz5xne9/) - Plokkskeem
+* [Draw.io](https://tinyurl.com/yxz5xne9/) - Plokkskeem
 
 # Mida me kasutame veebilehekülje loomiseks?
 * [Wordpress](https://www.wordpress.com/) - Ehitamine
