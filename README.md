@@ -2,7 +2,7 @@
 Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 
 # Vajalikud lingid
-* [Word](https://kak-my.sharepoint.com/:w:/g/personal/heinrich_mei_ametikool_ee/EaWEbWoMmGtAsFrYNO1t9h4BaqSqt-DofucsA2Z7ZK3_cA?e=Zz1Tl5)
+* [Word](https://kak-my.sharepoint.com/:w:/g/personal/henry_lehtsi_ametikool_ee/EVlMfHIDFMpCvoUnTYhn4xABxi4ebFQ3y68Zp_bFEfqXdQ?e=pUgcR4)
 * [Noor Probleem](https://tak17mei.itmajakas.ee/noorprobleem/) - Link veebileheküljele
 
 # Draw.io plokkskeem
