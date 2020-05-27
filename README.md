@@ -6,7 +6,7 @@ Meie leheküljel sai kasutatud mitmeid erinevad abivahendeid, et hõlbustada tö
 Viimasena oleme me toonud välja kasutatud allikad.
 
 # Tähtsamad hüperlingid
-* [Tarkvaraprojekti dokument](https://drive.google.com/file/d/1xpfSo_kRK6r-eqBNKsmjKlCLJkCeaQer/view?usp=sharing) - PDF formaadis dokument Google Drive's
+* [Tarkvaraprojekti dokumentatsioon](https://drive.google.com/file/d/1xpfSo_kRK6r-eqBNKsmjKlCLJkCeaQer/view?usp=sharing) - PDF formaadis dokument Google Drive's
 * [Noor Probleem](https://tak17mei.itmajakas.ee/noorprobleem/) - Link veebileheküljele
 
 # Draw.io plokkskeem
