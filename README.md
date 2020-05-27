@@ -1,7 +1,10 @@
 # Sissejuhatus
-Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
-
-# Vajalikud lingid
+Siia ma kirjutan sissejuhatuse, kuidas me veebilehte tegime.
+Esimesena tuleb tähtsad hüperlingid, kus saab ligi tarkvaraprojekti dokumendile ning veebileheküljele.
+Järgmine toon ma välja plokkskeem veebilehekülje kohta.
+Veebileheküljel sai kasutatud mitmeid erinevad asju, et veebilehte luua.
+Ning viimasena kasutaud allikad.
+# Tähtsad hüperlingid
 * [Tarkvaraprojekti dokument](https://drive.google.com/file/d/1nUuuEPLIkkVWwnUIeNK9t4z3-icHf2cY/view?usp=sharing) - PDF formaadis dokument Google Drive's
 * [Noor Probleem](https://tak17mei.itmajakas.ee/noorprobleem/) - Link veebileheküljele
 
@@ -13,7 +16,7 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 * [Figma](https://www.figma.com/) - Veebilehe disanimine
 * [Zone](https://www.zone.ee/) - Veebilehe majutamine
 * [Github](https://www.github.com/HenrysHub/veebileht/) - Kasutame GitHubi ülesande lisamiseks ja haldamiseks.
-* [Clockify](https://www.clockify.me/) - Aja jälgimine
+* [Toggl](https://www.toggl.com/) - Aja jälgimine
 * [Microsoft Teams](https://teams.microsoft.com/) - Suhtlemine ning info jagamine.
 
 # Kasutatud allikad 
