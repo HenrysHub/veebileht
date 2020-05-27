@@ -2,7 +2,7 @@
 Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 
 # Vajalikud lingid
-* [Word](https://kak-my.sharepoint.com/:w:/g/personal/henry_lehtsi_ametikool_ee/EVlMfHIDFMpCvoUnTYhn4xABxi4ebFQ3y68Zp_bFEfqXdQ?e=pUgcR4)
+* [Tarkvararprojekti dokument](https://drive.google.com/file/d/1nUuuEPLIkkVWwnUIeNK9t4z3-icHf2cY/view?usp=sharing) - PDF formaadis dokument Google Drive's
 * [Noor Probleem](https://tak17mei.itmajakas.ee/noorprobleem/) - Link veebileheküljele
 
 # Draw.io plokkskeem
