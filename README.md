@@ -5,7 +5,7 @@ Järgmine toon ma välja plokkskeem veebilehekülje kohta.
 Veebileheküljel sai kasutatud mitmeid erinevad asju, et veebilehte luua.
 Ning viimasena kasutaud allikad.
 # Tähtsad hüperlingid
-* [Tarkvaraprojekti dokument](https://drive.google.com/file/d/1nUuuEPLIkkVWwnUIeNK9t4z3-icHf2cY/view?usp=sharing) - PDF formaadis dokument Google Drive's
+* [Tarkvaraprojekti dokument](https://drive.google.com/file/d/1xpfSo_kRK6r-eqBNKsmjKlCLJkCeaQer/view?usp=sharing) - PDF formaadis dokument Google Drive's
 * [Noor Probleem](https://tak17mei.itmajakas.ee/noorprobleem/) - Link veebileheküljele
 
 # Draw.io plokkskeem
