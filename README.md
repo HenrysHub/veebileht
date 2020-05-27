@@ -5,12 +5,12 @@ Järgmine toon ma välja plokkskeem veebilehekülje kohta.
 Veebileheküljel sai kasutatud mitmeid erinevad asju, et veebilehte luua.
 Ning viimasena kasutaud allikad.
 
-Tähtsamad hüperlingid
+# Tähtsamad hüperlingid
 * [Tarkvaraprojekti dokument](https://drive.google.com/file/d/1xpfSo_kRK6r-eqBNKsmjKlCLJkCeaQer/view?usp=sharing) - PDF formaadis dokument Google Drive's
 * [Noor Probleem](https://tak17mei.itmajakas.ee/noorprobleem/) - Link veebileheküljele
 
 # Draw.io plokkskeem
-*[Draw.io](https://tinyurl.com/yxz5xne9/) - Plokkskeem
+* [Draw.io](https://tinyurl.com/yxz5xne9/) - Plokkskeem
 
 # Mida me kasutame veebilehekülje loomiseks?
 * [Figma](https://www.figma.com/) - Veebilehe disanimine
@@ -29,30 +29,3 @@ Tähtsamad hüperlingid
 * [Every-Layout](https://www.every-layout.dev) - Abi
 * [Vuejs](https://www.vuejs.org) - Abi
 * [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/) - Github dukumenteerimise abi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Sisukord
-
-**[Troubleshooting](#troubleshooting)**<br> (Otsib # järgi alapealkirja)
-
-### Troubleshooting
-See the [Troubleshooting wiki page](https://github.com/adam-p/markdown-here/wiki/Troubleshooting).
