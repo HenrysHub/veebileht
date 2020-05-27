@@ -1,6 +1,9 @@
 # Sissejuhatus
 Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 
+# Wordi dokument 
+[Word](https://kak-my.sharepoint.com/:w:/g/personal/heinrich_mei_ametikool_ee/EaWEbWoMmGtAsFrYNO1t9h4BaqSqt-DofucsA2Z7ZK3_cA?e=Zz1Tl5)
+
 # Draw.io plokkskeem
 [Draw.io](https://tinyurl.com/yxz5xne9/) - Plokkskeem
 
@@ -11,9 +14,6 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 * [Github](https://www.github.com/HenrysHub/veebileht/) - Kasutame GitHubi ülesande lisamiseks ja haldamiseks.
 * [Clockify](https://www.clockify.me/) - Aja jälgimine
 * [Microsoft Teams](https://teams.microsoft.com/) - Suhtlemine ning info jagamine.
-
-# Wordi dokument 
-[Word](https://kak-my.sharepoint.com/:w:/g/personal/heinrich_mei_ametikool_ee/EaWEbWoMmGtAsFrYNO1t9h4BaqSqt-DofucsA2Z7ZK3_cA?e=Zz1Tl5)
 
 # Kasutatud allikad 
 * [Google Fonts](https://fonts.google.com/) - Monsterrat font
