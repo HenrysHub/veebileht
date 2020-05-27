@@ -1,9 +1,9 @@
 # Sissejuhatus
 Siia ma kirjutan sissejuhatuse, kuidas me veebilehte tegime.
-Esimesena tuleb tähtsad hüperlingid, kus saab ligi tarkvaraprojekti dokumendile ning veebileheküljele.
-Järgmine toon ma välja plokkskeem veebilehekülje kohta.
-Veebileheküljel sai kasutatud mitmeid erinevad asju, et veebilehte luua.
-Ning viimasena kasutaud allikad.
+Esimesena tulevad tähtsad hüperlingid, mille abil saab ligi tarkvaraprojekti dokumentatsioonile, ning veebileheküljele. 
+Järgmisena on välja toodud plokkskeem veebilehekülje kohta. 
+Meie leheküljel sai kasutatud mitmeid erinevad abivahendeid, et hõlbustada töökulgu. 
+Viimasena oleme me toonud välja kasutatud allikad.
 
 # Tähtsamad hüperlingid
 * [Tarkvaraprojekti dokument](https://drive.google.com/file/d/1xpfSo_kRK6r-eqBNKsmjKlCLJkCeaQer/view?usp=sharing) - PDF formaadis dokument Google Drive's
