@@ -8,6 +8,7 @@ Viimasena oleme me toonud välja kasutatud allikad.
 # Tähtsamad hüperlingid
 * [Tarkvaraprojekti dokumentatsioon](https://drive.google.com/file/d/1xpfSo_kRK6r-eqBNKsmjKlCLJkCeaQer/view?usp=sharing) - PDF formaadis dokument Google Drive's
 * [Noor Probleem](https://tak17mei.itmajakas.ee/noorprobleem/) - Link veebileheküljele
+* [Figma](https://www.figma.com/file/f8fPooH3OY0id8hnpRqJTq/Noorteprobleemid?node-id=0%3A1) - Link figma prototüübile
 
 # Draw.io plokkskeem
 * [Draw.io](https://tinyurl.com/yxz5xne9/) - Plokkskeem
